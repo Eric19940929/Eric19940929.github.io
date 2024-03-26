@@ -1,4 +1,4 @@
-name: "Lizz's blog"
+name: "Lizz's Blog"
 description: "李艳鹏的个人博客"
 
 avatar: https://pianfan.github.io/images/avatar.png
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2024 Stat_Lizz
 
-url: https://Eric19940929.github.io
+url: https://Stat_Lizz.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
