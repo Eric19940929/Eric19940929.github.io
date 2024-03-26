@@ -1,5 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Lizz's blog"
+description: "李艳鹏的个人博客"
 
 avatar: https://pianfan.github.io/images/avatar.png
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 15045649975@163.com
   facebook:
-  github: pianfan
-  rss: # just type anything here for a working RSS icon
+  github: Eric19940929
+  rss: 
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 Stat_Lizz
 
-url: https://pianfan.github.io
+url: https://Eric19940929.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
