@@ -13,7 +13,7 @@ author: Li Yanpeng
 ### Content
 
 - [Introduction](#introduction)
-- [Note for Free probability theory](#note-for-free-probability-theory)
+- [Note for free probability theory](#note-for-free-probability-theory)
 
 ## Introduction
 This page includes some thoughts and notes when I read the following books
