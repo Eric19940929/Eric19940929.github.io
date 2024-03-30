@@ -12,10 +12,10 @@ author: Li Yanpeng
 
 ### Content
 
-- [Introduction](#Introduction)
-- [Note for Topics in random matrix theory](#Topics in random matrix theory)
-- [Note for Spectral analysis of large dimensional matrices](#Spectral analysis of large dimensional matrices)
-- [Note for Dynamical approach to random matrix theory](#Dynamical approach to random matrix theory)
+- [Introduction](#introduction)
+- [Note for Topics in random matrix theory](#note-for-topics-in-random-matrix-theory)
+- [Note for Spectral analysis of large dimensional matrices](#note-for-spectral-analysis-of-large-dimensional-matrices)
+- [Note for Dynamical approach to random matrix theory](#note-for-dynamical-approach-to-random-matrix-theory)
 
 ## Introduction
 This page includes some thoughts and notes when I read the following books
