@@ -18,4 +18,4 @@ author: Li Yanpeng
 This page includes some thoughts and notes when I read the following books
 - **Topics in Random Matrix Theory** by Terence Tao
 - **Spectral analysis of large dimensional matrices** by Zhidong Bai and Jack W. Silverstein
-- **Dynamical approach to random matrix theory** by L\acute{a}szl\acute{o} Erdos and Horng-Tzer Yau
+- **Dynamical approach to random matrix theory** by Laszlo Erdos and Horng-Tzer Yau
