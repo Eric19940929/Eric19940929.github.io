@@ -2,7 +2,7 @@
 layout: post
 title: "Notes for RMT"
 date:   2024-03-30
-tags: [notice]
+tags: [Reading notes]
 comments: true
 author: Li Yanpeng
 ---
