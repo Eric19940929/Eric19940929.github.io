@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Letter to friends"
-date:   2024-03-30
+date:   2024-03-26
 tags: [notice]
 comments: true
-author: Lizz
+author: Li Yanpeng
 ---
 
 
