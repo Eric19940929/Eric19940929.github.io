@@ -16,3 +16,4 @@ Now I am reading the following books:
 - **What is a quantum field theory?** by [Michel Talagrand](https://michel.talagrand.net/)
 - **Topics in random matrix theory** by [Terence Tao](https://www.math.ucla.edu/~tao/)
 - **Spectral analysis of large dimensional random matrices** by [Zhidong Bai](https://js.nenu.edu.cn/teacher/index_fix.php) and [Jack W. Silverstein](https://jack.math.ncsu.edu/)
+- **Introduction for Random Matrices**
